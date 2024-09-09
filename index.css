@@ -4,6 +4,13 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    background-image: url(./mensagem1/msg_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
 a{
     color: black;
     background-color: rgba(0, 0, 0, 0.6);
@@ -18,18 +25,12 @@ a{
     justify-content: center;
 }
 
-.message_1{
-    background-size: 100%;
-}
-
 img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
     border: 5px solid black;
 }
-
-
 
 .center{
     text-align: center;
