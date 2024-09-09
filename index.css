@@ -1,17 +1,17 @@
 body{
-    color: whitesmoke;
+    color: black;
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 a{
-    color: white;
+    color: black;
     background-color: rgba(0, 0, 0, 0.6);
     text-decoration: none;
 }
 
 .p-3text-dark-emphasisbs-dark-border-subtleborderborder-dark-subtlerounded-3{
-    color: whitesmoke;
+    color: black;
     background-color: rgba(0, 0, 0, 0.5);
     font-family: Arial, Helvetica, sans-serif;
     display: grid;
@@ -22,8 +22,10 @@ img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid white;
+    border: 5px solid black;
 }
+
+
 
 .center{
     text-align: center;
@@ -34,10 +36,6 @@ img{
     padding: 0px 50px;
 }
 
-.container a{
-    color: white;
-    padding: 0px 0px;
-}
 
 nav a:hover{
     color: bisque;
@@ -47,3 +45,4 @@ footer{
     display: flex;
     justify-content: center;
 }
+
